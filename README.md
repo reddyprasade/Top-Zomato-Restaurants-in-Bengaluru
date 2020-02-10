@@ -35,6 +35,18 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 ```
+## Steps to Run this Project:
+* **Import all the Packags:**
+* **Load_Data Set**
+* **Descriptive statistics**
+* **Exploratory data analysis**
+* **Find and fill  the Missing Values**
+* **Normilization**
+* **Train ,Test and split the Data **
+* **Modeling**
+* **Tuning Paremeters**
+* **Save the Results**
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
