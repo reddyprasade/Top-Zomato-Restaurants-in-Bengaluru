@@ -20,3 +20,27 @@ The basic idea of analysing the Zomato dataset is to get a fair idea about the f
 16. **listed_in(type):** type of meal
 17. **listed_in(city):** contains the neighborhood in which the restaurant is listed
 
+## Installation
+
+Use the package manager [pip](https://pypi.org/project/numpy/) to install Numpy,pandas,.
+
+```CMD
+pip install Numpy
+```
+
+## Usage
+
+```python
+import numpy as np
+import pandas as pd
+import seaborn as sns
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+reddyprasade@gmail.com
+
+## License
+[MIT License Copyright (c) 2020 REDDY PRASAD ](https://choosealicense.com/licenses/mit/)
